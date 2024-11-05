@@ -1,0 +1,28 @@
+body {
+  color: rgb(0, 0, 0);
+  background-color: rgb(216, 77, 209);
+}
+h1 {
+  color: aqua;
+  margin-left: 38px;
+  font-size: 25px;
+}
+h2 {
+  color: aqua;
+}
+h3 {
+  color: aqua;
+}
+p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 13px;
+  color: aqua;
+}
+ul > li {
+  list-style: circle;
+  color: beige;
+}
+ol > li {
+  list-style: upper-alpha;
+  color: azure;
+}
